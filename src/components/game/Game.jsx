@@ -1,5 +1,5 @@
 import react, { useState } from "react";
-import { calculateWinner } from "../Helper";
+import { calculateWinner } from "../../Helper";
 import Board from "../board/Board";
 
 //import 'reactjs-popup/dist/index.css';
