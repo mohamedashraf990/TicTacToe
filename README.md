@@ -1,4 +1,12 @@
-# XO Game
+## Title
+X0 Game using React JS
+
+
+
+## Description
+
+This is an X0 Game made using ReactJS Library and it contains Test Cases made using React-Testing Library
+
 
 ## Components :
 
